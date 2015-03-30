@@ -1,11 +1,3 @@
-# TicketSystem plugin for CakePHP
+# CakePHP3-TicketSystem
+This is a fully configurable ticket system.
 
-## Installation
-
-You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
-
-The recommended way to install composer packages is:
-
-```
-composer require your-name-here/TicketSystem
-```
